@@ -58,6 +58,15 @@
     <Compile Include="Exercicio03Test.cs" />
     <Compile Include="Exercicio04Test.cs" />
     <Compile Include="Exercicio06Test.cs" />
+    <Compile Include="Exercicio05Test.cs" />
+    <Compile Include="Exercicio07Test.cs" />
+    <Compile Include="Exercicio08Test.cs" />
+    <Compile Include="Exercicio09Test.cs" />
+    <Compile Include="Exercicio10Test.cs" />
+    <Compile Include="Exercicio11Test.cs" />
+    <Compile Include="Exercicio12Test.cs" />
+    <Compile Include="Exercicio13Test.cs" />
+    <Compile Include="Exercicio14Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ExerciciosSemana03\ExerciciosSemana03.csproj">
