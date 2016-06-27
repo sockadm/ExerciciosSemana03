@@ -1,0 +1,5 @@
+E:\Programacao\Carioca DEV\Semana 03\ExerciciosSemana03\ExerciciosSemana03\ExerciciosSemana03\bin\Debug\ExerciciosSemana03.dll
+E:\Programacao\Carioca DEV\Semana 03\ExerciciosSemana03\ExerciciosSemana03\ExerciciosSemana03\bin\Debug\ExerciciosSemana03.pdb
+E:\Programacao\Carioca DEV\Semana 03\ExerciciosSemana03\ExerciciosSemana03\ExerciciosSemana03\obj\Debug\ExerciciosSemana03.csprojResolveAssemblyReference.cache
+E:\Programacao\Carioca DEV\Semana 03\ExerciciosSemana03\ExerciciosSemana03\ExerciciosSemana03\obj\Debug\ExerciciosSemana03.dll
+E:\Programacao\Carioca DEV\Semana 03\ExerciciosSemana03\ExerciciosSemana03\ExerciciosSemana03\obj\Debug\ExerciciosSemana03.pdb
