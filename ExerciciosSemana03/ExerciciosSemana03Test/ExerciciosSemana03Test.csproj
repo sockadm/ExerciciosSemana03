@@ -56,6 +56,8 @@
     <Compile Include="Exercicio01Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Exercicio03Test.cs" />
+    <Compile Include="Exercicio04Test.cs" />
+    <Compile Include="Exercicio06Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ExerciciosSemana03\ExerciciosSemana03.csproj">
